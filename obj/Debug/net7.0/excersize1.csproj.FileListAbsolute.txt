@@ -1,0 +1,15 @@
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\excersize1\excersize1\bin\Debug\net7.0\excersize1.exe
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\excersize1\excersize1\bin\Debug\net7.0\excersize1.deps.json
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\excersize1\excersize1\bin\Debug\net7.0\excersize1.runtimeconfig.json
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\excersize1\excersize1\bin\Debug\net7.0\excersize1.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\excersize1\excersize1\bin\Debug\net7.0\excersize1.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\excersize1\excersize1\obj\Debug\net7.0\excersize1.csproj.AssemblyReference.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\excersize1\excersize1\obj\Debug\net7.0\excersize1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\excersize1\excersize1\obj\Debug\net7.0\excersize1.AssemblyInfoInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\excersize1\excersize1\obj\Debug\net7.0\excersize1.AssemblyInfo.cs
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\excersize1\excersize1\obj\Debug\net7.0\excersize1.csproj.CoreCompileInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\excersize1\excersize1\obj\Debug\net7.0\excersize1.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\excersize1\excersize1\obj\Debug\net7.0\refint\excersize1.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\excersize1\excersize1\obj\Debug\net7.0\excersize1.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\excersize1\excersize1\obj\Debug\net7.0\excersize1.genruntimeconfig.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\excersize1\excersize1\obj\Debug\net7.0\ref\excersize1.dll
